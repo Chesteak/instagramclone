@@ -5,7 +5,11 @@
 
 .float-left-1 {
   float: left;
-  margin-left: 10px;
+  margin-left: 13px;
+}
+
+.white-color {
+  background-color: white;
 }
 
 
@@ -42,6 +46,26 @@
   margin-right: 20px;
 }
 
+.margin-6 {
+  margin-left: 15px;
+}
+
+.margin-7 {
+  margin-left: 319px;
+}
+
+.margin-8 {
+  margin-left: 376px;
+}
+
+.margin-9 {
+  margin-left: 357px;
+}
+
+
+.float-right {
+  float: right;
+}
 
 ::placeholder{
     text-align: center;
